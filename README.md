@@ -16,6 +16,6 @@ Hay que subir imagen de que el script es ejecutado con exito
 Interior de el script
 
 
-![script](/img/interiorscript.png)
+![interiorscript](/img/interiorscript.png)
 
 
