@@ -11,7 +11,7 @@ Memoria libre del sistema (free -h)
 
 Hay que subir imagen de que el script es ejecutado con exito 
 
-```
+![script](/img/script.png)
 
 
-```
+
